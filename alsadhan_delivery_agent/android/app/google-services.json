@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246669692537",
+    "firebase_url": "https://alsadhandeliveryagent.firebaseio.com",
+    "project_id": "alsadhandeliveryagent",
+    "storage_bucket": "alsadhandeliveryagent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246669692537:android:a8f269a75643aed41e0ea8",
+        "android_client_info": {
+          "package_name": "com.example.alsadhan_delivery_agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246669692537-30c07epcknlg0t8jj3hf1ph5jmegk178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzu5Go6FfiCOCg6t1NGFhYK78ZbwNAgZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246669692537-30c07epcknlg0t8jj3hf1ph5jmegk178.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
